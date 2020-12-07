@@ -223,7 +223,7 @@ window.onload = function () {
     function movePlayer(element, currentPosition) {
         gsap.set(element, {
             css: {
-                "marginTop": "calc(" + currentPosition + " - 40px)"
+                "marginTop": "calc(" + currentPosition + " - 4%)"
             }
         });
     }

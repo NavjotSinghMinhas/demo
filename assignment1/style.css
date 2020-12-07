@@ -683,22 +683,28 @@ html, body {
 .winner {
     position: absolute;
     height: 100%;
-    margin-left: 460px;
+    margin-left: 47%;
     display: none;
+    height: 75%;
+    margin-top: 2%;
 }
 
 .loser {
     position: absolute;
     height: 100%;
-    margin-left: 370px;
+    margin-left: 40%;
     display: none;
+    height: 75%;
+    margin-top: 2%;
 }
 
 .draw {
     position: absolute;
     height: 100%;
-    margin-left: 380px;
+    margin-left: 38%;
     display: none;
+    height: 75%;
+    margin-top: 2%;
 }
 
 .bottom {
