@@ -1,733 +1,752 @@
 * {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 /******** SVG CSS ********/
 
 .ba71d842-a08d-4556-935b-d40f5fd9dbb6 {
-  opacity: 0.53;
+    opacity: 0.53;
 }
 
 .ac37d369-e274-415b-b7e8-34a9b57b7e4d {
-  fill: #fff;
+    fill: #fff;
 }
 
 .bcfc704d-b4b6-4ece-a396-9fa869779682 {
-  fill: #fc0303;
+    fill: #fc0303;
 }
 
 .b7e75108-e9d2-451d-829a-ae0b58a1461a {
-  fill: #a51e22;
+    fill: #a51e22;
 }
 
 .beb8f6bb-cbd9-4b18-a09b-1b3367853c30 {
-  fill: #ac9590;
+    fill: #ac9590;
 }
 
 .af43f897-5139-48ec-baba-8387ac4766f7, .bb9a78f9-404a-4ebd-aabb-a528f5c606b7 {
-  fill: #de5725;
+    fill: #de5725;
 }
 
 .b8af2b7c-8e88-4de8-8ccc-a97954aabac1 {
-  fill: #a51e22;
+    fill: #a51e22;
 }
 
 .af43f897-5139-48ec-baba-8387ac4766f7 {
-  font-size: 37.27px;
-  font-family: MyriadPro-Regular, Myriad Pro;
+    font-size: 37.27px;
+    font-family: MyriadPro-Regular, Myriad Pro;
 }
 
 .b7d5aae6-ab48-4ab9-8157-035436d208a1 {
-  letter-spacing: -0.07em;
+    letter-spacing: -0.07em;
 }
 
 .f322b3a4-053c-4fd7-a080-43ff556b9489 {
-  letter-spacing: 0.01em;
+    letter-spacing: 0.01em;
 }
 
 .ab1d6ad7-a773-4985-9e4e-dc4a2fe1f80e {
-  letter-spacing: -0.07em;
+    letter-spacing: -0.07em;
 }
 
 .a4f720ac-9ecb-4499-af5c-e9e012bc94af {
-  fill: #fff;
-  stroke: #000;
+    fill: #fff;
+    stroke: #000;
 }
 
 .a4f720ac-9ecb-4499-af5c-e9e012bc94af, .e71b3044-50d1-44ac-b0da-f16fa9592b37, .e897e49c-0fae-48a8-a1b4-1b14c19cdab4 {
-  stroke-miterlimit: 10;
+    stroke-miterlimit: 10;
 }
 
 .e897e49c-0fae-48a8-a1b4-1b14c19cdab4 {
-  fill: #cc2323;
+    fill: #cc2323;
 }
 
 .e71b3044-50d1-44ac-b0da-f16fa9592b37, .e897e49c-0fae-48a8-a1b4-1b14c19cdab4 {
-  stroke: #ce2127;
+    stroke: #ce2127;
 }
 
 .e2e7fb9c-b6da-4dbf-9936-4c8fca60f4ef, .e71b3044-50d1-44ac-b0da-f16fa9592b37 {
-  fill: #ce2127;
+    fill: #ce2127;
 }
 
 .b4ce112e-d565-41b2-a50c-908b735bbfe8 {
-  fill: #b49b31;
+    fill: #b49b31;
 }
 
 .ef6505a9-3f6b-4c71-bc89-62f0caede5cd {
-  fill: #715152;
+    fill: #715152;
 }
 
 .b80b2db4-cd52-4699-ab3d-54a6dbf313d2 {
-  fill: #e56725;
+    fill: #e56725;
 }
 
 .fd751571-ad83-463f-b79b-4fa8e5a16366 {
-  fill: #ee7e21;
+    fill: #ee7e21;
 }
 
 .b3fa75d3-261d-4e0c-9393-35b24992865e {
-  fill: #f6981c;
+    fill: #f6981c;
 }
 
 .a35c5ca8-cc80-49c4-bad3-3847e2bf9591 {
-  fill: #fbbb20;
+    fill: #fbbb20;
 }
 
 .ffee8fa7-d7b6-442f-a9ab-95abb061586f {
-  fill: #fad95d;
+    fill: #fad95d;
 }
 
 .acc80bed-b5fb-48ef-9756-f1432ce77071 {
-  fill: #b7b5ae;
+    fill: #b7b5ae;
 }
 
 .a765dead-14c5-4d80-95b3-c4bb1fc24512 {
-  fill: #020102;
+    fill: #020102;
 }
 
 .efbf7a9f-72e1-4e24-b832-55d6a9693dee {
-  fill: #d71c5b;
+    fill: #d71c5b;
 }
 
 .bbec2c05-5612-47fd-9006-8c312bf1f78d {
-  fill: #f2879c;
+    fill: #f2879c;
 }
 
 .b66d8698-f2b0-4174-8168-8b4a1e7d2fa9 {
-  fill: #f397af;
+    fill: #f397af;
 }
 
 .ace18d6b-e102-4c43-a326-2280752576de {
-  fill: #cf1957;
+    fill: #cf1957;
 }
 
 .a5b7ca93-7774-4602-a10f-758aee466936 {
-  fill: #b5124b;
+    fill: #b5124b;
 }
 
 .a005be83-96d3-48fd-9f9d-3ae0eb72d177 {
-  fill: #c01550;
+    fill: #c01550;
 }
 
 .e901f684-2342-459b-b8af-a29cb4279d97 {
-  fill: #d51b5a;
+    fill: #d51b5a;
 }
 
 .a84e7fbb-77ea-4c86-82b1-b57fb917d615 {
-  fill: #f1717f;
+    fill: #f1717f;
 }
 
 .b8543b23-2704-49fa-9de5-5ea1617942fc {
-  fill: #f17b8f;
+    fill: #f17b8f;
 }
 
 .e73b27d8-ea00-4682-b00c-72dc6524ff0d {
-  fill: #f38fa6;
+    fill: #f38fa6;
 }
 
 .a3b24f0d-195a-4d96-bb70-fc6c449247fd {
-  fill: #f28296;
+    fill: #f28296;
 }
 
 .a35687cf-7baf-495d-a821-b19bd9dd1750 {
-  fill: #ef6574;
+    fill: #ef6574;
 }
 
 .ad9b8b82-b0b6-4163-88ef-f6fa3d925afc {
-  fill: #fefefe;
+    fill: #fefefe;
 }
 
 .a76f8e2a-827d-41ac-ad5c-726506b3d9b0 {
-  fill: #014383;
+    fill: #014383;
 }
 
 .a377fb8d-3015-44b1-a593-50d272e8df20 {
-  font-size: 36px;
-  font-family: MyriadPro-Regular, Myriad Pro;
+    font-size: 36px;
+    font-family: MyriadPro-Regular, Myriad Pro;
 }
 
 .b890d0db-e4e2-4be5-8720-26b8224971ea {
-  letter-spacing: 0em;
+    letter-spacing: 0em;
 }
 
 .f0e71102-4e9b-41c9-b972-ae84ae88b097 {
-  letter-spacing: 0em;
+    letter-spacing: 0em;
 }
 
 .f2df32f3-1b7e-4ae0-aa12-a27944b1b2ad {
-  letter-spacing: 0em;
+    letter-spacing: 0em;
 }
 
 .a35476d4-e861-4dd2-a273-c34cfb1fbf55 {
-  fill: #a51e22;
+    fill: #a51e22;
 }
 
 .b79e01eb-d3d1-416b-b175-966e7ed1417a {
-  font-size: 72px;
-  fill: #ee7e21;
-  font-family: MyriadPro-Regular, Myriad Pro;
+    font-size: 72px;
+    fill: #ee7e21;
+    font-family: MyriadPro-Regular, Myriad Pro;
 }
 
 .b6e81828-d862-47d0-a204-ec52b26f62d3 {
-  letter-spacing: -0.04em;
+    letter-spacing: -0.04em;
 }
 
 .e243b33c-647a-4576-8691-ac11434464b7 {
-  font-size: 36px;
-  font-family: GillSans-UltraBold, Gill Sans Ultra Bold;
-  font-weight: 700;
+    font-size: 36px;
+    font-family: GillSans-UltraBold, Gill Sans Ultra Bold;
+    font-weight: 700;
 }
 
 .af2b8b6c-0411-460e-a8dd-130971c43953 {
-  letter-spacing: -0.04em;
+    letter-spacing: -0.04em;
 }
 
 .aa440515-5663-4be0-8c68-0e8d0226c013 {
-  letter-spacing: -0.08em;
+    letter-spacing: -0.08em;
 }
 
 .fa078005-74e1-4e8f-9763-af692c5839d6 {
-  letter-spacing: -0.02em;
+    letter-spacing: -0.02em;
 }
 
 .b7c70ad4-415b-486a-9461-b2c68665ec37 {
-  fill: #10120f;
+    fill: #10120f;
 }
 
 .a1aaeae6-8e60-4eb6-9574-61401c821bcd {
-  fill: #6d1338;
+    fill: #6d1338;
 }
 
 .f4992d85-31bc-4b13-9706-c16eb98477b3 {
-  fill: #cdf4ae;
+    fill: #cdf4ae;
 }
 
 .f3cd3fe7-1d4c-4dbf-b7bc-509f7912f078 {
-  fill: #cbf2ac;
+    fill: #cbf2ac;
 }
 
 .ea46fb36-bdda-401b-9e23-767774bdd16d {
-  fill: #ebf9dc;
+    fill: #ebf9dc;
 }
 
 .e994b441-0396-46b8-bd7b-5c77ec5ebb04 {
-  fill: #181710;
+    fill: #181710;
 }
 
 .a5952b56-a29d-4282-b3d6-0690fdb3813c {
-  fill: #cd574d;
+    fill: #cd574d;
 }
 
 .e973c043-af19-45cf-b093-f968dd0e1a0a {
-  fill: #cd6556;
+    fill: #cd6556;
 }
 
 .af6e9e2f-22b5-4c7c-b253-ca64cf0cc119 {
-  fill: #cdcd97;
+    fill: #cdcd97;
 }
 
 .a17fcb6b-4343-466d-b011-c2ce6c51cfe9 {
-  fill: #cca77e;
+    fill: #cca77e;
 }
 
 .bd5e8fef-75c0-4289-b3f3-72c56569b226 {
-  fill: #cdb889;
+    fill: #cdb889;
 }
 
 .b8c7380d-63b2-4427-9107-e825d77eafd5 {
-  fill: #cddca1;
+    fill: #cddca1;
 }
 
 .ae57ed1a-7320-49dd-bf2f-2930003b84a5 {
-  fill: #edebe2;
+    fill: #edebe2;
 }
 
 .aeb06d88-8796-4dae-baac-40e72676d65a {
-  fill: #f7ce9b;
+    fill: #f7ce9b;
 }
 
 .b18c69d3-31b8-44b6-9e47-a6ca28fff103 {
-  fill: #b56b2a;
+    fill: #b56b2a;
 }
 
 .f59b5cd1-a126-499c-9d48-b42622143001 {
-  fill: #fa8961;
+    fill: #fa8961;
 }
 
 .f53b31d0-37ab-4a48-9115-865aae9bd8c9 {
-  fill: #fcaa86;
+    fill: #fcaa86;
 }
 
 .aef4975f-a0eb-4c7c-a5f7-a7a1abb03f13 {
-  fill: #dfaf9b;
+    fill: #dfaf9b;
 }
 
 .bfa6615d-802a-4e68-9200-9f0616309ee8 {
-  fill: #fba681;
+    fill: #fba681;
 }
 
 .a539a98d-0115-4a9e-8d2f-c165ad88c94c {
-  fill: #ca762e;
+    fill: #ca762e;
 }
 
 .a5142d1a-50e4-4fe4-b2eb-a1b7e5d763f9 {
-  fill: #f3d7cb;
+    fill: #f3d7cb;
 }
 
 .e3f503c1-6eec-4f56-b4eb-3d5606d44c41 {
-  fill: #522b24;
+    fill: #522b24;
 }
 
 .b324cb13-7701-40de-af6f-f9094d333815 {
-  fill: #6a3d37;
+    fill: #6a3d37;
 }
 
 .a96c9174-36ce-4e61-9c4c-9f3f296e7ea1 {
-  fill: #697078;
+    fill: #697078;
 }
 
 .fd7361e8-4c1b-4994-9e13-fa5f76372689 {
-  fill: #c1bfc0;
+    fill: #c1bfc0;
 }
 
 .a71e4e25-8b5a-4a97-a970-63e5779f058d {
-  fill: #53535d;
+    fill: #53535d;
 }
 
 .afd75d50-5345-4a62-996c-85056e55e0a9 {
-  fill: #066d75;
+    fill: #066d75;
 }
 
 .b544f1dd-f96d-4102-8b2c-86051e2394ca {
-  fill: #1111ce;
+    fill: #1111ce;
 }
 
 .b44bf4b2-0fca-4c20-8cd3-a52553aa9992 {
-  fill: #191314;
+    fill: #191314;
 }
 
 .ab493fef-27f5-4d4b-8868-eb035b2f7c6b {
-  fill: #0e1619;
+    fill: #0e1619;
 }
 
 .faa573e0-2a34-45df-9ddb-c5a05db8ff38 {
-  fill: #e8acc0;
+    fill: #e8acc0;
 }
 
 .eeed917e-496b-4557-82c0-2bfc43cf1130 {
-  fill: #1f1e1f;
+    fill: #1f1e1f;
 }
 
 .a9857edf-4f0f-4d60-b43b-684f9b463339 {
-  fill: #76a2c0;
+    fill: #76a2c0;
 }
 
 .bb53acdc-8e7f-4653-b045-f4165afe54b5 {
-  fill: #16161a;
+    fill: #16161a;
 }
 
 .ade21a95-d959-4593-b2fe-e4695bcbbebf {
-  fill: #25130d;
+    fill: #25130d;
 }
 
 .a65fbf79-bf9b-4d11-8192-ce181aba5edd {
-  fill: #f9fbfb;
+    fill: #f9fbfb;
 }
 
 .a33bb286-7368-464e-bd5f-4eda4b530bcd {
-  fill: #f3f8f9;
+    fill: #f3f8f9;
 }
 
 .f5c45a57-04a3-49fc-8985-8c5e7c93a89f {
-  fill: #68bb9c;
+    fill: #68bb9c;
 }
 
 .f390c60b-ef94-4cc5-93c3-a4a8f0ae8ca4 {
-  fill: #16161a;
+    fill: #16161a;
 }
 
 .b8ab9482-481b-4482-aab8-b563cfd2a359 {
-  fill: #191314;
+    fill: #191314;
 }
 
 .b1df793c-b754-49c2-8dc8-7b608a065efa {
-  fill: #0e1619;
+    fill: #0e1619;
 }
 
 .f4ca48f6-aff4-43a6-be96-d91aa542f55c {
-  fill: #f7faf9;
+    fill: #f7faf9;
 }
 
 .fde99005-40e8-44b2-989f-251f4d39ecea {
-  fill: #e49d63;
+    fill: #e49d63;
 }
 
 .af214332-f379-430c-bd25-8efe50083ece {
-  fill: #e19c64;
+    fill: #e19c64;
 }
 
 .a840a722-5684-423a-9d16-6c5732b223d7 {
-  fill: #76a2c0;
+    fill: #76a2c0;
 }
 
 .a55b164c-59d6-4be6-8cff-387685a0e58f {
-  fill: #25130d;
+    fill: #25130d;
 }
 
 .f5a8d0bc-0b6d-4835-a0e1-42f01fc5dc74 {
-  fill: #f3f8f9;
+    fill: #f3f8f9;
 }
 
 .b576aee4-855d-4e8c-8be9-315da1f137d9 {
-  fill: #1f1e1f;
+    fill: #1f1e1f;
 }
 
 .b9c705cd-d011-45b0-8f2c-8763078b76fd {
-  fill: #70a9cd;
+    fill: #70a9cd;
 }
 
 .b2e2d445-ce15-481c-a866-bbab6d89b717 {
-  fill: #0e1619;
+    fill: #0e1619;
 }
 
 .fe696c96-c070-4675-ae97-9559336ca3dc {
-  fill: #68bb9c;
+    fill: #68bb9c;
 }
 
 .bb1c95d0-a3f8-4238-a849-acd718bd2bc0 {
-  fill: #1f1e1f;
+    fill: #1f1e1f;
 }
 
 .e67071f5-0b90-46c4-9419-ccc62c8e45ba {
-  fill: #76a2c0;
+    fill: #76a2c0;
 }
 
 .fe31db14-ff67-4f4f-9860-4f3dd5549a8e {
-  fill: #16161a;
+    fill: #16161a;
 }
 
 .ee73117d-c410-4485-8028-e9a9f77c16aa {
-  fill: #0d1d13;
+    fill: #0d1d13;
 }
 
 .ef682daa-09d1-4451-808d-1d0517bb4ab1 {
-  fill: #f3f8f9;
+    fill: #f3f8f9;
 }
 
 .a67d09ff-1639-4542-b141-1597a474ad69 {
-  fill: #dae6ec;
+    fill: #dae6ec;
 }
 
 .b6fc66d8-b368-4eea-a1a7-be3f1a1a7d6a {
-  fill: #f9fbfb;
+    fill: #f9fbfb;
 }
 
 .a1af9a8d-6f9a-4b1f-9d3a-086cffa73108 {
-  fill: #191314;
+    fill: #191314;
 }
 
 .ba5636c6-4b13-414f-b6b2-0a76c9a33c7a {
-  fill: #fac71d;
+    fill: #fac71d;
 }
 
 .af703801-7e77-44d8-88c4-3955531816e4 {
-  fill: #464b5e;
+    fill: #464b5e;
 }
 
 .b0fc3275-8033-4e4f-9a64-196a1528ea0a {
-  fill: #fac81f;
+    fill: #fac81f;
 }
 
 .aa8f8c7f-09ac-4caf-9fda-604d48015f75 {
-  fill: #faaf41;
+    fill: #faaf41;
 }
 
 .b0ba08cb-bbf7-4371-9d25-14c50314af13 {
-  fill: #2c3544;
+    fill: #2c3544;
 }
 
 .a403ddac-b0f1-4ab0-a68c-b2287dbdd65d {
-  fill: #5f6573;
+    fill: #5f6573;
 }
 
 .eae06790-7059-40b0-8a0c-a1dc9c2aa89c {
-  fill: #fcde7b;
+    fill: #fcde7b;
 }
 
 .b295865f-676b-466c-8e00-192bc09f1fa3 {
-  fill: #1f202e;
+    fill: #1f202e;
 }
 
 .afcdb2e3-2675-42ae-aba2-86208016d96e {
-  fill: #fddd75;
+    fill: #fddd75;
 }
 
 .a54ac354-3ce8-4747-a56f-99d3b1bb261b {
-  fill: #b56b2a;
+    fill: #b56b2a;
 }
 
 .e998e5ca-ed60-4fba-ac1b-48bcc6757584 {
-  fill: #fa8961;
+    fill: #fa8961;
 }
 
 .b4b7a337-8138-4306-8e69-58d2f2ced7ce {
-  fill: #fcaa86;
+    fill: #fcaa86;
 }
 
 .bfbbce85-7a9e-4aa3-91f8-d7ec72b2924b {
-  fill: #dfaf9b;
+    fill: #dfaf9b;
 }
 
 .a45b740d-d254-4a86-9b6e-c04a6c8c9a8b {
-  fill: #fba681;
+    fill: #fba681;
 }
 
 .ba96daf3-0610-447b-bb8e-d1543db768ff {
-  fill: #ca762e;
+    fill: #ca762e;
 }
 
 .b1719641-42a6-4467-bed8-55a729bdc82b {
-  fill: #f3d7cb;
+    fill: #f3d7cb;
 }
 
 .ec57c549-2681-4a4a-94da-e8bc06bf69b3 {
-  fill: #522b24;
+    fill: #522b24;
 }
 
 .e8d22f07-1849-4222-bf84-bd5804dc9566 {
-  fill: #6a3d37;
+    fill: #6a3d37;
 }
 
 .bd480672-7a72-4067-bc67-590a52afaddf {
-  fill: #697078;
+    fill: #697078;
 }
 
 .bb166d50-5e1f-44b6-80cb-5d255a8bb600 {
-  fill: #c1bfc0;
+    fill: #c1bfc0;
 }
 
 .bc416d79-e5cb-4f32-a2b0-b9d616bf05ed {
-  fill: #53535d;
+    fill: #53535d;
 }
 
 .e6de998a-917d-4e7a-add4-27b17395cf56 {
-  fill: #066d75;
+    fill: #066d75;
 }
 
 .ed581b44-12a8-4313-9b0c-b7ed421d4a0e {
-  font-size: 36px;
-  font-family: MyriadPro-Regular, Myriad Pro;
+    font-size: 36px;
+    font-family: MyriadPro-Regular, Myriad Pro;
 }
 
 .f0436cac-2f0f-44e6-8bc8-18e79dc2dbcf {
-  fill: #030303;
+    fill: #030303;
 }
 
 .a9045cef-77bd-4ac8-8652-554e08801bb6 {
-  fill: #fac1a2;
+    fill: #fac1a2;
 }
 
 .ec97d224-20ab-470f-8fc4-4c8b39925f59 {
-  fill: #fad7b8;
+    fill: #fad7b8;
 }
 
 .b2584336-c7de-4824-9610-ff66490e5193 {
-  fill: #0d0908;
+    fill: #0d0908;
 }
 
 /******** Main CSS ********/
 
 html, body {
-  height: 100%;
-  background-color: #de5725;
+    height: 100%;
+    background-color: #de5725;
 }
 
 .container {
-  width: 1000px;
-  position: absolute;
-  margin-top: 10px;
+    width: 1000px;
+    position: absolute;
+    margin-top: 10px;
 }
 
 .center {
-  margin-left: auto;
-  margin-right: auto;
-  left:0;
-  right:0;
-  display: block;
-  position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    display: block;
+    position: absolute;
 }
 
 .background {
-  height: 100%;
-  width: 100%;
-  margin-top: 40px;
-  z-index: 0;
+    height: 100%;
+    width: 100%;
+    margin-top: 40px;
+    z-index: 0;
 }
 
 .header {
-  height: 80px;
-  width: 1000px;
+    height: 80px;
+    width: 1000px;
 }
 
 .trophy {
-  top: 0;
-  margin-top: 85px;
-  position: absolute;
-  height: 80px;
-  width: 1000px;
+    top: 0;
+    margin-top: 85px;
+    position: absolute;
+    height: 80px;
+    width: 1000px;
 }
 
 .user-trophy {
-  position: absolute;
-  height: 80%;
-  margin-left: 25px;
+    position: absolute;
+    height: 80%;
+    margin-left: 25px;
 }
 
 .machine-trophy {
-  position: relative;
-  display: block;
-  height: 80%;
-  margin-left: auto;
-  margin-right: 30px;
+    position: relative;
+    display: block;
+    height: 80%;
+    margin-left: auto;
+    margin-right: 30px;
 }
 
 .game {
-  top: 0;
-  margin-top: 200px;
-  position: absolute;
-  height: 220px;
-  width: 1000px;
+    top: 0;
+    margin-top: 200px;
+    position: absolute;
+    height: 220px;
+    width: 1000px;
 }
 
 .user-box {
-  position: absolute;
-  height: 100%;
-  margin-left: 125px;
+    position: absolute;
+    height: 100%;
+    margin-left: 125px;
 }
 
 .machine-box {
-  position: relative;
-  display: block;
-  height: 100%;
-  margin-left: auto;
-  margin-right: 130px;
-  transform: scaleX(-1);
+    position: relative;
+    display: block;
+    height: 100%;
+    margin-left: auto;
+    margin-right: 130px;
+    transform: scaleX(-1);
 }
 
 .user-text {
-  position: absolute;
-  height: 80%;
-  font-family:Comic Sans MS;
-  margin-left: 170px;
-  margin-top: 4px;
-  z-index: 10;
+    position: absolute;
+    height: 80%;
+    font-family: Comic Sans MS;
+    margin-left: 170px;
+    margin-top: 4px;
+    z-index: 10;
 }
 
 .machine-text {
-  position: absolute;
-  height: 80%;
-  font-family: Comic Sans MS;
-  margin-left: 775px;
-  margin-top: 4px;
-  z-index: 10;
+    position: absolute;
+    height: 80%;
+    font-family: Comic Sans MS;
+    margin-left: 775px;
+    margin-top: 4px;
+    z-index: 10;
 }
 
 .user-selection {
-  position: absolute;
-  height: 80%;
-  margin-left: 170px;
-  margin-top: 30px;
+    position: absolute;
+    height: 80%;
+    margin-left: 170px;
+    margin-top: 30px;
 }
 
 .machine-selection {
-  position: absolute;
-  height: 80%;
-  margin-left: 700px;
-  margin-top: 30px;
-  z-index: 10;
+    position: absolute;
+    height: 80%;
+    margin-left: 700px;
+    margin-top: 30px;
+    z-index: 10;
 }
 
 .winner {
-  position: absolute;
-  height: 100%;
-  margin-left: 460px;
-  display: none;
+    position: absolute;
+    height: 100%;
+    margin-left: 460px;
+    display: none;
 }
 
 .loser {
-  position: absolute;
-  height: 100%;
-  margin-left: 370px;
-  display: none;
+    position: absolute;
+    height: 100%;
+    margin-left: 370px;
+    display: none;
 }
 
 .draw {
-  position: absolute;
-  height: 100%;
-  margin-left: 380px;
-  display: none;
+    position: absolute;
+    height: 100%;
+    margin-left: 380px;
+    display: none;
 }
 
 .bottom {
-  bottom: 0;
-  height: 160px;
-  width: 1000px;
+    bottom: 0;
+    height: 160px;
+    width: 1000px;
 }
 
 .user-player {
-  position: absolute;
-  height: 80%;
-  margin-left: 15px;
+    position: absolute;
+    height: 80%;
+    margin-left: 15px;
 }
 
 .machine-player {
-  position: relative;
-  display: block;
-  height: 80%;
-  margin-left: auto;
-  margin-right: 20px;
+    position: relative;
+    display: block;
+    height: 80%;
+    margin-left: auto;
+    margin-right: 20px;
 }
 
 .stone {
-  position: absolute;
-  height: 60%;
-  margin-top: 20px;
-  margin-left: 375px;
+    position: absolute;
+    height: 60%;
+    margin-top: 20px;
+    margin-left: 375px;
 }
 
 .paper {
-  position: absolute;
-  height: 60%;
-  margin-top: 20px;
-  margin-left: 475px;
+    position: absolute;
+    height: 60%;
+    margin-top: 20px;
+    margin-left: 475px;
 }
 
 .scissor {
-  position: absolute;
-  height: 60%;
-  margin-top: 20px;
-  margin-left: 575px;
+    position: absolute;
+    height: 60%;
+    margin-top: 20px;
+    margin-left: 575px;
+}
+
+.portrait {
+    display: none;
+}
+
+@media screen and (orientation:portrait) {
+    .portrait {
+        position: fixed;
+        top: 0;
+        left: 0;
+        display: grid;
+        place-items: center;
+        height: 100%;
+        width: 100%;
+        text-align: center;
+        background: #b5b5b5;
+        z-index: 1000;
+    }
 }
