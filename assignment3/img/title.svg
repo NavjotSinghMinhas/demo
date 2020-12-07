@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../style.css"?>
+<svg version="1.1" id="title" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 400" style="enable-background:new 0 0 800 400;" xml:space="preserve">
+<g id="title_1_">
+	<path class="title" d="M732.8,249.1H67.2c-19.3,0-34.9-15.6-34.9-34.9v-28.5c0-19.3,15.6-34.9,34.9-34.9h665.5
+		c19.3,0,34.9,15.6,34.9,34.9v28.5C767.6,233.5,752,249.1,732.8,249.1z"/>
+	<rect x="64.3" y="176.8" class="title-1" width="673" height="51.7"/>
+	<text transform="matrix(1 0 0 1 207.59 216.1877)" class="title-2 title-3 title-4">Get the Ducks</text>
+</g>
+</svg>

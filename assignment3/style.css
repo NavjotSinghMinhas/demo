@@ -1,0 +1,488 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.background-1 {
+    fill: #57d5f7;
+    stroke: #009245;
+    stroke-miterlimit: 10;
+}
+
+.background-2 {
+    fill: #599c2f;
+}
+
+.background-3 {
+    fill: #483a28;
+}
+
+.background-4 {
+    fill: #459f62;
+}
+
+.background-5 {
+    fill: #619925;
+}
+
+.background-6 {
+    fill: #424f32;
+}
+
+.background-7 {
+    fill: #a7be62;
+}
+
+.background-8 {
+    fill: #93b71f;
+}
+
+.background-9 {
+    fill: #a8c41c;
+}
+
+.background-10 {
+    fill: #cfcfda;
+}
+
+.background-11 {
+    fill: #1e9a00;
+}
+
+.background-12 {
+    fill: #2f7924;
+}
+
+.background-13 {
+    fill: #898f98;
+}
+
+.background-14 {
+    fill: #fff;
+}
+
+.bird-draw-1 {
+    fill: #010101;
+}
+
+.bird-draw-2 {
+    fill: #231f20;
+}
+
+.bird-lose {
+    fill: #010101;
+}
+
+.bird-win-1 {
+    fill: #010101;
+}
+
+.bird-win-2 {
+    fill: #ed2024;
+}
+
+.computericon-1 {
+    fill: #64ccee;
+    stroke: #079247;
+}
+
+.computericon-1, .computericon-2, .computericon-3, .computericon-4, .computericon-5, .computericon-6, .computericon-7, .computericon-8 {
+    stroke-miterlimit: 10;
+}
+
+.computericon-2 {
+    fill: #c3b9b3;
+}
+
+.computericon-2, .computericon-3, .computericon-4, .computericon-5, .computericon-8 {
+    stroke: #231f20;
+}
+
+.computericon-3 {
+    fill: #b7b49f;
+}
+
+.computericon-4 {
+    fill: #127fb6;
+}
+
+.computericon-5 {
+    fill: none;
+}
+
+.computericon-6 {
+    fill: #fafcfe;
+}
+
+.computericon-6, .computericon-7 {
+    stroke: #010101;
+}
+
+.computericon-7 {
+    fill: #0e90c1;
+}
+
+.computericon-8 {
+    fill: #010101;
+}
+
+.computericon-9 {
+    font-size: 27.85px;
+    fill: #231f20;
+    font-family: AmericanTypewriter, American Typewriter;
+}
+
+.computericon-10 {
+    letter-spacing: -0.03em;
+}
+
+.computerrec-1 {
+    fill: #fff;
+    stroke: #64c9d3;
+    stroke-miterlimit: 10;
+    stroke-width: 12px;
+}
+
+.papericon-1 {
+    fill: #fff;
+}
+
+.papericon-1, .papericon-2 {
+    stroke: #231f20;
+    stroke-miterlimit: 10;
+}
+
+.papericon-2 {
+    fill: #e0e4e4;
+}
+
+.recbckicon-1 {
+    fill: #fff;
+    stroke: #030303;
+    stroke-miterlimit: 10;
+    stroke-width: 7px;
+}
+
+.rectangleyou {
+    fill: #FFFFFF;
+    stroke: #1B763B;
+    stroke-width: 12;
+    stroke-miterlimit: 10;
+}
+
+.restart-1 {
+    fill: #fff;
+    stroke: #1b763b;
+    stroke-miterlimit: 10;
+    stroke-width: 12px;
+}
+
+.restart-2 {
+    font-size: 66px;
+    fill: #010101;
+    font-family: AmericanTypewriter, American Typewriter;
+}
+
+.restart-3 {
+    letter-spacing: 0.02em;
+}
+
+.restart-4 {
+    letter-spacing: 0.02em;
+}
+
+.rockicon-1 {
+    fill: #99958c;
+}
+
+.rockicon-2 {
+    fill: #a6a39b;
+}
+
+.rockicon-3 {
+    fill: #605d58;
+}
+
+.rockicon-4 {
+    fill: #726d64;
+}
+
+.rockicon-5 {
+    fill: #7b7a72;
+}
+
+.scissoricon-1 {
+    fill: #afb2b6;
+}
+
+.scissoricon-1, .scissoricon-3 {
+    stroke: #030303;
+}
+
+.scissoricon-1, .scissoricon-2, .scissoricon-3, .scissoricon-4, .scissoricon-5, .scissoricon-6 {
+    stroke-miterlimit: 10;
+}
+
+.scissoricon-2 {
+    fill: #ed2024;
+}
+
+.scissoricon-2, .scissoricon-4, .scissoricon-5, .scissoricon-6 {
+    stroke: #010101;
+}
+
+.scissoricon-3 {
+    fill: #fdfeff;
+}
+
+.scissoricon-4 {
+    fill: #010101;
+}
+
+.scissoricon-5 {
+    fill: none;
+}
+
+.scissoricon-6 {
+    fill: #fff;
+}
+
+.title {
+    fill: #010101;
+}
+
+.title-1 {
+    fill: none;
+}
+
+.title-2 {
+    fill: #FFFFFF;
+}
+
+.title-3 {
+    font-family: 'AmericanTypewriter';
+}
+
+.title-4 {
+    font-size: 57.9085px;
+}
+
+.youcharacter {
+    fill: #239B48;
+}
+
+.st1 {
+    fill: #030303;
+    stroke: #010101;
+    stroke-miterlimit: 10;
+}
+
+.st2 {
+    fill: #A36D32;
+}
+
+.st3 {
+    fill: #010101;
+    stroke: #231F20;
+    stroke-miterlimit: 10;
+}
+
+.st4 {
+    fill: #A36D32;
+    stroke: #010101;
+    stroke-miterlimit: 10;
+}
+
+.st5 {
+    fill: none;
+    stroke: #010101;
+    stroke-miterlimit: 10;
+}
+
+.st6 {
+    fill: #010101;
+}
+
+.st7 {
+    fill: #D0AE56;
+    stroke: #85499B;
+    stroke-width: 4;
+    stroke-miterlimit: 10;
+}
+
+.st8 {
+    fill: #010101;
+    stroke: #85499B;
+    stroke-width: 8;
+    stroke-miterlimit: 10;
+}
+
+.st9 {
+    fill: #C29044;
+    stroke: #010101;
+    stroke-miterlimit: 10;
+}
+
+.st10 {
+    fill: #292E4F;
+}
+
+.st11 {
+    fill: none;
+}
+
+.st12 {
+    fill: #231F20;
+}
+
+.st13 {
+    font-family: 'AmericanTypewriter';
+}
+
+.st14 {
+    font-size: 49.6432px;
+}
+
+html, body {
+    height: 100%;
+    background-color: #57d5f7;
+}
+
+.container {
+    width: 1000px;
+    position: absolute;
+    margin-top: 10px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    display: block;
+    position: absolute;
+}
+
+.background {
+    height: 100%;
+    width: 100%;
+    z-index: 0;
+}
+
+.title {
+    position: absolute;
+    height: 230px;
+    margin-top: -60px;
+}
+
+.gameSection {
+    top: 0;
+    margin-top: 50px;
+    position: absolute;
+    height: 280px;
+    width: 1000px;
+}
+
+.youcharacter {
+    position: absolute;
+    height: 78%;
+    margin-left: 550px;
+    margin-top: 60px;
+}
+
+.computericon {
+    position: relative;
+    display: block;
+    height: 70%;
+    margin-left: 580px;
+    margin-top: 290px;
+}
+
+.userSelection {
+    position: absolute;
+    height: 50%;
+    margin-left: 810px;
+    margin-top: 110px;
+}
+
+.computerSelection {
+    position: absolute;
+    height: 50%;
+    margin-left: 810px;
+    margin-top: 320px;
+    z-index: 10;
+}
+
+.rectangleyou {
+    position: absolute;
+    height: 90%;
+    margin-left: 740px;
+    margin-top: 50px;
+}
+
+.computerrec {
+    position: absolute;
+    height: 65%;
+    margin-left: 745px;
+    margin-top: 300px;
+}
+
+.bird-win {
+    position: absolute;
+    height: 50%;
+    margin-left: 340px;
+    margin-top: 150px;
+    display: none;
+}
+
+.bird-lose {
+    position: absolute;
+    height: 50%;
+    margin-left: 340px;
+    margin-top: 150px;
+    display: none;
+}
+
+.bird-draw {
+    position: absolute;
+    height: 50%;
+    margin-left: 340px;
+    margin-top: 150px;
+    display: none;
+}
+
+.restart {
+    position: absolute;
+    height: 25%;
+    margin-top: 400px;
+    margin-left: 350px;
+}
+
+.rock {
+    position: absolute;
+    height: 30%;
+    margin-left: 175px;
+    margin-top: 100px;
+}
+
+.paper {
+    position: absolute;
+    height: 40%;
+    margin-left: 175px;
+    margin-top: 210px;
+}
+
+.scissor {
+    position: absolute;
+    height: 40%;
+    margin-left: 180px;
+    margin-top: 350px;
+}
+
+.recbckicon {
+    position: absolute;
+    height: 150%;
+    margin-left: 140px;
+    margin-top: 70px;
+}

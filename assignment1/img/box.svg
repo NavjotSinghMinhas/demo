@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 401.45 426.15">
+    <g id="box-layer" data-name="Layer 2">
+        <g id="box" data-name="boxes">
+            <g class="ba71d842-a08d-4556-935b-d40f5fd9dbb6">
+                <rect class="ac37d369-e274-415b-b7e8-34a9b57b7e4d" x="3.95" y="28.65" width="395" height="395"/>
+                <path class="bcfc704d-b4b6-4ece-a396-9fa869779682" d="M396.45,31.15v390H6.45v-390h390m5-5H1.45v400h400v-400Z"/>
+            </g>
+            <path class="b7e75108-e9d2-451d-829a-ae0b58a1461a" d="M0,28.07C0,12.57,53.38,0,119.22,0S238.45,12.57,238.45,28.07"/>
+            <path class="b7e75108-e9d2-451d-829a-ae0b58a1461a" d="M238.45,27.07c0,15.51-53.38,28.08-119.23,28.08S0,42.58,0,27.07"/>
+        </g>
+    </g>
+</svg>

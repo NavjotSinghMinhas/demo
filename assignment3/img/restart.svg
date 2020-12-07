@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../style.css"?>
+<svg id="restart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 305 128">
+  <g id="restart-2" data-name="restart">
+    <rect class="restart-1" x="6" y="6" width="293" height="116" rx="56.99"/>
+    <text class="restart-2" transform="translate(50.48 83.54)">
+      <tspan class="restart-3">Restart</tspan>
+    </text>
+  </g>
+</svg>

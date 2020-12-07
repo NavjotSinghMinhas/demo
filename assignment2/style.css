@@ -1,0 +1,891 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.animation-1 {
+    fill: #ed2224;
+}
+
+.animation-2 {
+    fill: #3b53a4;
+}
+
+.animation-3 {
+    fill: #fdeb07;
+}
+
+.background-1 {
+    mask: url(#mask);
+}
+
+.background-2 {
+    fill: url(#linear-gradient);
+}
+
+.background-3 {
+    mask: url(#mask-2);
+}
+
+.background-4 {
+    fill: url(#linear-gradient-2);
+}
+
+.background-5 {
+    fill: #725d54;
+}
+
+.background-6 {
+    fill: #c4b79f;
+}
+
+.background-7 {
+    fill: #145c39;
+}
+
+.background-8 {
+    fill: #29794e;
+}
+
+.background-9 {
+    fill: #589e64;
+}
+
+.background-10 {
+    fill: #e9bc8a;
+}
+
+.background-11 {
+    fill: #fffffc;
+}
+
+.background-12 {
+    isolation: isolate;
+}
+
+.background-13 {
+    fill: #3c4456;
+}
+
+.background-14 {
+    fill: #42e2de;
+}
+
+.background-15 {
+    fill: #a88a6c;
+}
+
+.background-16 {
+    fill: #488c59;
+}
+
+.background-17 {
+    fill: #79ad84;
+}
+
+.background-18 {
+    mix-blend-mode: screen;
+}
+
+.background-19 {
+    fill: #fff;
+}
+
+.background-20 {
+    fill: #bfac75;
+}
+
+.background-20, .background-21 {
+    stroke: #000;
+    stroke-miterlimit: 10;
+}
+
+.background-21 {
+    fill: none;
+}
+
+.background-22 {
+    filter: url(#luminosity-noclip-2);
+}
+
+.background-23 {
+    filter: url(#luminosity-noclip);
+}
+
+.computer-1 {
+    fill: #fff;
+    stroke: #93cd98;
+    stroke-width: 9px;
+}
+
+.computer-1, .computer-2, .computer-3, .computer-4 {
+    stroke-miterlimit: 10;
+}
+
+.computer-2, .computer-3 {
+    fill: #93cd98;
+    stroke: #030303;
+}
+
+.computer-2 {
+    stroke-width: 7px;
+}
+
+.computer-3 {
+    stroke-width: 5px;
+}
+
+.computer-4 {
+    fill: #ed2224;
+    stroke: #080505;
+}
+
+.draw-1 {
+    fill: #65785d;
+    stroke-width: 8px;
+}
+
+.draw-1, .draw-3, .draw-4, .draw-5, .draw-6 {
+    stroke: #231f20;
+    stroke-miterlimit: 10;
+}
+
+.draw-2, .draw-3 {
+    fill: #859c80;
+}
+
+.draw-3, .draw-4, .draw-5, .draw-6 {
+    stroke-width: 2px;
+}
+
+.draw-4 {
+    fill: #231f20;
+}
+
+.draw-5 {
+    fill: #ef4839;
+}
+
+.draw-6 {
+    fill: none;
+}
+
+.losing-1 {
+    fill: #65785d;
+    stroke-width: 8px;
+}
+
+.losing-1, .losing-3, .losing-4, .losing-5 {
+    stroke: #231f20;
+    stroke-miterlimit: 10;
+}
+
+.losing-2, .losing-3 {
+    fill: #859c80;
+}
+
+.losing-3, .losing-4, .losing-5 {
+    stroke-width: 2px;
+}
+
+.losing-4 {
+    fill: #231f20;
+}
+
+.losing-5 {
+    fill: #ef4839;
+}
+
+.paper-1, .paper-4 {
+    fill: #fff;
+}
+
+.paper-1 {
+    stroke: #93cd98;
+}
+
+.paper-1, .paper-2, .paper-3, .paper-4, .paper-5 {
+    stroke-miterlimit: 10;
+}
+
+.paper-1, .paper-2 {
+    stroke-width: 9px;
+}
+
+.paper-2 {
+    fill: #93cd98;
+}
+
+.paper-2, .paper-3, .paper-4, .paper-5 {
+    stroke: #010101;
+}
+
+.paper-3 {
+    fill: #ed2224;
+}
+
+.paper-3, .paper-4, .paper-5 {
+    stroke-width: 8px;
+}
+
+.paper-5 {
+    fill: none;
+}
+
+.reset-1 {
+    fill: #fff;
+    stroke: #010101;
+    stroke-miterlimit: 10;
+    stroke-width: 6px;
+}
+
+.reset-2 {
+    font-size: 55px;
+    fill: #ed2224;
+    font-family: Impact;
+}
+
+.rock-1, .rock-5 {
+    fill: #fff;
+}
+
+.rock-1 {
+    stroke: #93cd98;
+}
+
+.rock-1, .rock-2, .rock-3, .rock-4, .rock-5 {
+    stroke-miterlimit: 10;
+}
+
+.rock-1, .rock-2, .rock-3 {
+    stroke-width: 9px;
+}
+
+.rock-2 {
+    fill: #93cd98;
+}
+
+.rock-2, .rock-3, .rock-4, .rock-5 {
+    stroke: #010101;
+}
+
+.rock-3 {
+    fill: none;
+}
+
+.rock-4 {
+    fill: #ed2224;
+}
+
+.rock-4, .rock-5 {
+    stroke-width: 8px;
+}
+
+.scissor-1, .scissor-5 {
+    fill: #fff;
+}
+
+.scissor-1 {
+    stroke: #93cd98;
+}
+
+.scissor-1, .scissor-2, .scissor-3, .scissor-4, .scissor-5 {
+    stroke-miterlimit: 10;
+}
+
+.scissor-1, .scissor-2 {
+    stroke-width: 9px;
+}
+
+.scissor-2 {
+    fill: #93cd98;
+}
+
+.scissor-2, .scissor-3, .scissor-4, .scissor-5 {
+    stroke: #010101;
+}
+
+.scissor-3 {
+    fill: #ed2224;
+    stroke-width: 6px;
+}
+
+.scissor-4 {
+    fill: none;
+}
+
+.scissor-4, .scissor-5 {
+    stroke-width: 8px;
+}
+
+.title-1 {
+    fill: #93cd98;
+    stroke: #030303;
+    stroke-width: 7px;
+}
+
+.title-1, .title-2 {
+    stroke-miterlimit: 10;
+}
+
+.title-2 {
+    font-size: 123px;
+    fill: #ed2224;
+    stroke: #010101;
+    font-family: Impact;
+}
+
+.winasset-1 {
+    fill: #ed2024;
+    fill-rule: evenodd;
+}
+
+.winasset-2 {
+    fill: #65785d;
+    stroke-width: 8px;
+}
+
+.winasset-2, .winasset-4, .winasset-5, .winasset-6 {
+    stroke: #231f20;
+    stroke-miterlimit: 10;
+}
+
+.winasset-3, .winasset-4 {
+    fill: #859c80;
+}
+
+.winasset-4, .winasset-5, .winasset-6 {
+    stroke-width: 2px;
+}
+
+.winasset-5 {
+    fill: #231f20;
+}
+
+.winasset-6 {
+    fill: #ef4839;
+}
+
+.character-1, .character-7 {
+    fill: #fff;
+}
+
+.character-1 {
+    stroke: #93cd98;
+    stroke-width: 9px;
+}
+
+.character-1, .character-11, .character-2, .character-3, .character-4, .character-5 {
+    stroke-miterlimit: 10;
+}
+
+.character-2 {
+    fill: #ed2224;
+}
+
+.character-2, .character-4, .character-5 {
+    stroke: #010101;
+}
+
+.character-3 {
+    fill: #93cd98;
+    stroke: #030303;
+    stroke-width: 7px;
+}
+
+.character-4 {
+    fill: none;
+    stroke-width: 10px;
+}
+
+.character-5 {
+    fill: #d32328;
+    stroke-width: 5px;
+}
+
+.character-6 {
+    fill: #fcc391;
+}
+
+.character-8 {
+    fill: #0f0f24;
+}
+
+.character-9 {
+    fill: #0f1132;
+}
+
+.character-10 {
+    fill: #fcc290;
+}
+
+.character-11 {
+    fill: #fdfeff;
+    stroke: #0f0f24;
+}
+
+.st0 {
+    filter: url(#Adobe_OpacityMaskFilter);
+}
+
+.st1 {
+    mask: url(#SVGID_1_);
+}
+
+.st2 {
+    fill: url(#SVGID_2_);
+}
+
+.st3 {
+    filter: url(#Adobe_OpacityMaskFilter_1_);
+}
+
+.st4 {
+    mask: url(#SVGID_3_);
+}
+
+.st5 {
+    fill: url(#SVGID_4_);
+}
+
+.st6 {
+    fill: #725D54;
+}
+
+.st7 {
+    fill: #C4B79F;
+}
+
+.st8 {
+    fill: #145C39;
+}
+
+.st9 {
+    fill: #29794E;
+}
+
+.st10 {
+    fill: #589E64;
+}
+
+.st11 {
+    fill: #E9BC8A;
+}
+
+.st12 {
+    fill: #FFFFFC;
+}
+
+.st13 {
+    fill: #3C4456;
+}
+
+.st14 {
+    fill: #42E2DE;
+}
+
+.st15 {
+    fill: #A88A6C;
+}
+
+.st16 {
+    fill: #488C59;
+}
+
+.st17 {
+    fill: #79AD84;
+}
+
+.st18 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #FFFFFF;
+}
+
+.st19 {
+    fill: #BFAC75;
+    stroke: #000000;
+    stroke-miterlimit: 10;
+}
+
+.st20 {
+    fill: none;
+    stroke: #000000;
+    stroke-miterlimit: 10;
+}
+
+.st21 {
+    fill: #FFFFFF;
+}
+
+.st22 {
+    fill: #FFFFFF;
+    stroke: #93CD98;
+    stroke-width: 9;
+    stroke-miterlimit: 10;
+}
+
+.st23 {
+    fill: #FF0000;
+    stroke: #000000;
+    stroke-miterlimit: 10;
+}
+
+.st24 {
+    fill: #93CD98;
+    stroke: #020202;
+    stroke-width: 7;
+    stroke-miterlimit: 10;
+}
+
+.st25 {
+    fill: none;
+    stroke: #000000;
+    stroke-width: 10;
+    stroke-miterlimit: 10;
+}
+
+.st26 {
+    fill: #D32127;
+    stroke: #000000;
+    stroke-width: 5;
+    stroke-miterlimit: 10;
+}
+
+.st27 {
+    fill: #FCC290;
+}
+
+.st28 {
+    fill: #000026;
+}
+
+.st29 {
+    fill: #000034;
+}
+
+.st30 {
+    fill: #FEC28E;
+}
+
+.st31 {
+    fill: #FDFDFF;
+    stroke: #000026;
+    stroke-miterlimit: 10;
+}
+
+.st32 {
+    fill: #93CD98;
+    stroke: #020202;
+    stroke-width: 5;
+    stroke-miterlimit: 10;
+}
+
+.st33 {
+    fill: #FF0000;
+    stroke: #050000;
+    stroke-miterlimit: 10;
+}
+
+.st34 {
+    fill: #FF0000;
+}
+
+.st35 {
+    fill: #0C00FF;
+}
+
+.st36 {
+    fill: #FFEC00;
+}
+
+.st37 {
+    fill: none;
+}
+
+.st38 {
+    font-family: 'Impact';
+}
+
+.st39 {
+    font-size: 123px;
+}
+
+.st40 {
+    fill: #FFFFFF;
+    stroke: #000000;
+    stroke-width: 6;
+    stroke-miterlimit: 10;
+}
+
+.st41 {
+    font-size: 55px;
+}
+
+.st42 {
+    fill: #93CD98;
+    stroke: #000000;
+    stroke-width: 9;
+    stroke-miterlimit: 10;
+}
+
+.st43 {
+    fill: none;
+    stroke: #000000;
+    stroke-width: 9;
+    stroke-miterlimit: 10;
+}
+
+.st44 {
+    fill: #FF0000;
+    stroke: #000000;
+    stroke-width: 8;
+    stroke-miterlimit: 10;
+}
+
+.st45 {
+    fill: #FFFFFF;
+    stroke: #000000;
+    stroke-width: 8;
+    stroke-miterlimit: 10;
+}
+
+.st46 {
+    fill: none;
+    stroke: #000000;
+    stroke-width: 8;
+    stroke-miterlimit: 10;
+}
+
+.st47 {
+    fill: #FF0303;
+    stroke: #000000;
+    stroke-width: 6;
+    stroke-miterlimit: 10;
+}
+
+.resultbox {
+    fill: #fff;
+    stroke: #93cd98;
+    stroke-miterlimit: 10;
+    stroke-width: 9px;
+}
+
+.alertWin-1 {
+    fill: #93cd98;
+    stroke: #93cd98;
+    stroke-miterlimit: 10;
+    stroke-width: 15px;
+}
+
+.alertWin-2 {
+    font-size: 91px;
+}
+
+.alertWin-2, .alertWin-5 {
+    font-family: Impact;
+}
+
+.alertWin-3 {
+    letter-spacing: -0.04em;
+}
+
+.alertWin-4 {
+    fill: #fff;
+}
+
+.alertWin-5 {
+    font-size: 76px;
+}
+
+.alertLose-1 {
+    fill: #93cd98;
+    stroke: #93cd98;
+    stroke-miterlimit: 10;
+    stroke-width: 15px;
+}
+
+.alertLose-2 {
+    font-size: 91px;
+}
+
+.alertLose-2, .alertLose-5 {
+    font-family: Impact;
+}
+
+.alertLose-3 {
+    letter-spacing: -0.04em;
+}
+
+.alertLose-4 {
+    fill: #fff;
+}
+
+.alertLose-5 {
+    font-size: 76px;
+}
+
+/******** Index CSS ********/
+
+html, body {
+    height: 100%;
+    background-color: #3c4456;
+}
+
+.container {
+    width: 1000px;
+    position: absolute;
+    margin-top: 10px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    display: block;
+    position: absolute;
+}
+
+.background {
+    height: 100%;
+    width: 100%;
+    margin-top: -110px;
+    z-index: 0;
+}
+
+.animation {
+    position: absolute;
+    z-index: 1;
+}
+
+.header {
+    position: absolute;
+    height: 80px;
+    width: 1000px;
+}
+
+.game {
+    top: 0;
+    margin-top: 50px;
+    position: absolute;
+    height: 280px;
+    width: 1000px;
+}
+
+.user {
+    position: absolute;
+    height: 78%;
+    margin-left: 65px;
+    margin-top: 80px;
+}
+
+.computer {
+    position: relative;
+    display: block;
+    height: 78%;
+    margin-left: auto;
+    margin-right: 65px;
+    margin-top: 80px;
+}
+
+.user-selection {
+    position: absolute;
+    height: 50%;
+    margin-left: 270px;
+    margin-top: 120px;
+}
+
+.computer-selection {
+    position: absolute;
+    height: 50%;
+    margin-left: 570px;
+    margin-top: 120px;
+    z-index: 10;
+}
+
+.userBox {
+    position: absolute;
+    height: 50%;
+    margin-left: 265px;
+    margin-top: 120px;
+}
+
+.computerBox {
+    position: absolute;
+    height: 50%;
+    margin-left: 565px;
+    margin-top: 120px;
+}
+
+.win {
+    position: absolute;
+    height: 30%;
+    margin-left: 760px;
+    margin-top: -8px;
+    display: none;
+}
+
+.lose {
+    position: absolute;
+    height: 30%;
+    margin-left: 760px;
+    margin-top: -8px;
+    display: none;
+}
+
+.draw {
+    position: absolute;
+    height: 30%;
+    margin-left: 760px;
+    margin-top: -8px;
+    display: none;
+}
+
+.bottom {
+    bottom: 30px;
+    height: 160px;
+    width: 1000px;
+}
+
+.reset {
+    position: absolute;
+    height: 25%;
+    margin-top: 60px;
+    margin-left: 85px;
+}
+
+.rock {
+    position: absolute;
+    height: 80%;
+    margin-left: 275px;
+}
+
+.paper {
+    position: absolute;
+    height: 80%;
+    margin-left: 425px;
+}
+
+.scissor {
+    position: absolute;
+    height: 80%;
+    margin-left: 575px;
+}
+
+.alertWin {
+    position: absolute;
+    height: 100%;
+    margin-top: -150px;
+    margin-left: 350px;
+    z-index: 100;
+}
+
+.alertLose {
+    position: absolute;
+    height: 100%;
+    margin-top: -150px;
+    margin-left: 350px;
+    z-index: 100;
+}

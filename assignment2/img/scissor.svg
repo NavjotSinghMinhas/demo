@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 278.49 250">
+  <g id="scissor" data-name="scissor">
+    <rect id="rec3" class="scissor-1" x="4.5" y="4.5" width="269.49" height="241" rx="93.1"/>
+    <g id="scissor-2" data-name="scissor">
+      <path class="scissor-2" d="M178.86,263.09a48.76,48.76,0,0,1-6.58-4.76c-6.17-5.21-14.54-14.52-15.18-27.07a41.85,41.85,0,0,0-1.84-10.59L154,216.52V203.73s0-9.88,12.46-6.4c0,0,2.69-12.16,10.69-8.81a9.55,9.55,0,0,1,5.62,7.29l1.55,9.34s5.42,2.17,5.42-3.25V154.3s-2.71-7.62,7-10.87S204.85,170,204.85,170l.1,30.28s.44,5.45,3.15.58S220,152.63,220,152.63s2.71-7,8.66-5.95,6,8.12,6,8.12l-13,50.35,9.75,5.42s4.87,1.08,3.25,9.2-2.17,22.2-2.17,22.2-4.57,9.69-11.89,16.1a22.45,22.45,0,0,1-8.84,5l8.82-4.88L219.47,294s-20.52-17.87-48.16,0l.51-33.57S169.65,256.05,178.86,263.09Z" transform="translate(-60.95 -106.62)"/>
+      <path class="scissor-3" d="M171.49,301.88c2.07,1.55,21.06,14.83,47.77-.56a.16.16,0,0,0,0-.27c-2-1.59-21-15.34-47.77.57A.15.15,0,0,0,171.49,301.88Z" transform="translate(-60.95 -106.62)"/>
+      <path class="scissor-4" d="M156.61,226.46s10.07,7.12,16.56-2.63c0,0-1.62-25.92-6.76-26.5" transform="translate(-60.95 -106.62)"/>
+      <path class="scissor-4" d="M184.27,205.15s5.69,13.27,2.44,19.22c0,0-6.5,10.29-13.54-.54" transform="translate(-60.95 -106.62)"/>
+      <path class="scissor-4" d="M221.63,205.15s-25.17-7.31-24.09,3.52,17.33,13,17.33,13,3.48,5.58-.7,7.12-8,5.33-6.88,11.83" transform="translate(-60.95 -106.62)"/>
+      <path class="scissor-4" d="M206.94,205.15s4.33,7.61-1.45,8" transform="translate(-60.95 -106.62)"/>
+      <path class="scissor-4" d="M169.71,197.33s3.46-2.2,5.09-1.65" transform="translate(-60.95 -106.62)"/>
+      <path class="scissor-4" d="M174.8,217" transform="translate(-60.95 -106.62)"/>
+      <path class="scissor-4" d="M180.44,217s-6.4-2.05-8.19,1.59" transform="translate(-60.95 -106.62)"/>
+      <path class="scissor-4" d="M189.69,163.73s8.59-2.16,9,0" transform="translate(-60.95 -106.62)"/>
+      <path class="scissor-4" d="M189.69,185s5.07-2.59,7.82,0" transform="translate(-60.95 -106.62)"/>
+      <path class="scissor-4" d="M231.22,163.73s-6.42-3.79-8.41,0" transform="translate(-60.95 -106.62)"/>
+      <path class="scissor-4" d="M226.84,185s-2.48-5.36-7.5-.57" transform="translate(-60.95 -106.62)"/>
+      <path class="scissor-4" d="M154,210.74s1.9-11.82,8.94-3.69" transform="translate(-60.95 -106.62)"/>
+      <path class="scissor-4" d="M155.26,220.67s5.14-5.75,9.63-2.11" transform="translate(-60.95 -106.62)"/>
+      <path class="scissor-5" d="M187.92,291v19.23s-16.37,12.71,1,18.12c0,0,9.72-3.79,11.63,0,0,0,5.15,3.79,7.86-1.62,0,0,8.2-12.78-4.57-16.41l-1.38-19.9S194.54,288.83,187.92,291Z" transform="translate(-60.95 -106.62)"/>
+    </g>
+  </g>
+</svg>

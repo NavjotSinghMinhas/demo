@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../style.css"?>
+<svg id="title" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1048.45 186">
+  <g id="title-2" data-name="title">
+    <path id="titleRec" class="title-1" d="M1000.63,308.5H156.32a62.31,62.31,0,0,1-49-23.79L72.55,240.46a34.7,34.7,0,0,1,0-42.92l25.07-31.89A94.66,94.66,0,0,1,172,129.5h831a73.86,73.86,0,0,1,52.73,22.14l39.87,40.66a38.14,38.14,0,0,1,0,53.4l-38.16,38.91A79.65,79.65,0,0,1,1000.63,308.5Z" transform="translate(-61.62 -126)"/>
+    <text class="title-2" transform="translate(200.7 134.47)">Zombies Hunt</text>
+  </g>
+</svg>

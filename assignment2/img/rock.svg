@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 278.49 250">
+  <g id="rock" data-name="rock">
+    <rect id="rec1" class="rock-1" x="4.5" y="4.5" width="269.49" height="241" rx="93.1"/>
+    <g id="rock-2" data-name="rock">
+      <path class="rock-2" d="M178.63,211.09s-28.34-13.3-28.76-45.79l-.42-32.5s5-21.35,19.22-5.69c0,0,6.36-26.42,20.62-5.74,0,0,11.41-18.46,22.08-2.8,0,0,15.55-13.75,20.23,3.09v9.39s23.34-1.42,19.71,13.69l.38,33.06S237.18,207.53,220,211.09l11.29-5.69.88,45.54s-33-24.91-63.18,0l-.33-42S163.69,200.41,178.63,211.09Z" transform="translate(-60.95 -74.62)"/>
+      <path class="rock-3" d="M149.8,160s10.49,13.67,20.37,0l-1.5-32.88s8.6-4.27,11.06,0" transform="translate(-60.95 -74.62)"/>
+      <path class="rock-3" d="M189.29,121.37v39s-6.23,15.44-19.12-.37" transform="translate(-60.95 -74.62)"/>
+      <path class="rock-3" d="M211.37,118.57v15.66s-8.54,10.9,0,20.39v7.26s-10,14.65-22.08-1.52" transform="translate(-60.95 -74.62)"/>
+      <line class="rock-3" x1="170.65" y1="56.43" x2="150.42" y2="56.43"/>
+      <line class="rock-3" x1="176.77" y1="77.82" x2="150.42" y2="80"/>
+      <polyline class="rock-3" points="160.53 106.22 160.53 97.5 170.65 88.78 170.65 78.33"/>
+      <path class="rock-3" d="M181.47,152.44s-4.81-8.11-11.3,0" transform="translate(-60.95 -74.62)"/>
+      <path class="rock-3" d="M149.45,132.8s12.28-4.65,12.19.17" transform="translate(-60.95 -74.62)"/>
+      <path class="rock-3" d="M190,130s8.29-2.6,10.55-1.3" transform="translate(-60.95 -74.62)"/>
+      <path class="rock-3" d="M189.29,152.44s10.26-5.26,12.26,0" transform="translate(-60.95 -74.62)"/>
+      <path class="rock-3" d="M229.46,121.37s-7.46-3-10.29.29" transform="translate(-60.95 -74.62)"/>
+      <path class="rock-3" d="M219.17,138.69s9.94,4.53,0,8.57" transform="translate(-60.95 -74.62)"/>
+      <path class="rock-4" d="M168,255.93c5.25,3.63,31.42,19.44,64.66,0a.88.88,0,0,0,0-1.51c-6.47-3.93-37.43-20.66-64.71,0A.87.87,0,0,0,168,255.93Z" transform="translate(-60.95 -74.62)"/>
+      <path class="rock-5" d="M189,246.83v25.28s-21.51,16.7,1.26,23.81c0,0,12.79-5,15.29,0,0,0,6.78,5,10.34-2.13,0,0,10.77-16.79-6-21.56L208,246.06S197.65,244,189,246.83Z" transform="translate(-60.95 -74.62)"/>
+    </g>
+  </g>
+</svg>
