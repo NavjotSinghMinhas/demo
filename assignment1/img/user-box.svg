@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../style.css"?>
+<svg id="eb5c791d-2898-4cae-be55-29a5985b91a4" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 401.5 426.1">
+  <g id="a42ffb23-75d6-4c47-9c2e-3c32dee064b2" data-name="box-layer">
+    <g id="b214da83-da00-472d-a47e-bec6695f47b9" data-name="box">
+      <g class="aa9ba74b-7289-42d6-8861-a4743e484c92">
+        <rect class="f1a8f60b-6edf-4193-b753-46fd4d1b6edd" x="4" y="28.6" width="395" height="395"/>
+        <path class="b6a988f5-81a7-459a-91bd-0869f4e5f6c8" d="M396.5,31.1v390H6.4V31.1H396.5m5-5H1.5v400h400Z"/>
+      </g>
+      <path class="ac86d042-92c1-4d89-b9cb-18438d891470" d="M0,28.1C0,12.6,53.4,0,119.2,0S238.4,12.6,238.4,28.1"/>
+      <path class="ac86d042-92c1-4d89-b9cb-18438d891470" d="M238.4,27.1c0,15.5-53.4,28.1-119.2,28.1S0,42.6,0,27.1"/>
+    </g>
+  </g>
+  <text class="b793f122-820a-4e2f-8eef-868fa1fc9b54" transform="translate(76.22 41.11)">User</text>
+</svg>

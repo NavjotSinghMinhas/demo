@@ -558,74 +558,101 @@
     fill: #0d0908;
 }
 
+.f4512404-cb5c-4ce2-b68a-d0f8f1914fe0 {
+    opacity: 0.53;
+}
+
+.baaaef97-e9f0-4f78-9d33-81394d4ae6cb, .e9e63b6e-c64d-4c76-be08-392a5a022550 {
+    fill: #fff;
+}
+
+.b00314fb-776d-465f-a4d9-7c73d2e7534d {
+    fill: #fc0303;
+}
+
+.e459c27e-0fb5-43a4-ba0b-17c19738897b {
+    fill: #a51e22;
+}
+
+.e9e63b6e-c64d-4c76-be08-392a5a022550 {
+    font-size: 36px;
+    font-family: HoboStd, Hobo Std;
+}
+
+.aa9ba74b-7289-42d6-8861-a4743e484c92 {
+    opacity: 0.53;
+}
+
+.b793f122-820a-4e2f-8eef-868fa1fc9b54, .f1a8f60b-6edf-4193-b753-46fd4d1b6edd {
+    fill: #fff;
+}
+
+.b6a988f5-81a7-459a-91bd-0869f4e5f6c8 {
+    fill: #fc0303;
+}
+
+.ac86d042-92c1-4d89-b9cb-18438d891470 {
+    fill: #a51e22;
+}
+
+.b793f122-820a-4e2f-8eef-868fa1fc9b54 {
+    isolation: isolate;
+    font-size: 36px;
+    font-family: HoboStd, Hobo Std;
+}
+
 /******** Main CSS ********/
 
 html, body {
     height: 100%;
+    margin: 0;
     background-color: #de5725;
 }
 
 .container {
-    width: 1000px;
-    position: absolute;
-    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    max-width: 75%;
+    margin: 0 auto;
 }
 
 .center {
-    margin-left: auto;
-    margin-right: auto;
-    left: 0;
-    right: 0;
-    display: block;
-    position: absolute;
-}
-
-.background {
-    height: 100%;
-    width: 100%;
-    margin-top: 40px;
-    z-index: 0;
-}
-
-.header {
-    height: 80px;
-    width: 1000px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 .trophy {
     top: 0;
-    margin-top: 85px;
+    margin-top: 7.7%;
     position: absolute;
-    height: 80px;
-    width: 1000px;
+    height: 18%;
+    width: 100%;
 }
 
 .user-trophy {
-    position: absolute;
-    height: 80%;
-    margin-left: 25px;
+    height: 90%;
+    margin-left: 1%;
 }
 
 .machine-trophy {
-    position: relative;
-    display: block;
-    height: 80%;
-    margin-left: auto;
-    margin-right: 30px;
+    height: 90%;
+    margin-right: 1%;
+    float: right;
 }
 
 .game {
     top: 0;
-    margin-top: 200px;
+    margin-top: 15%;
     position: absolute;
-    height: 220px;
-    width: 1000px;
+    height: 43%;
+    width: 100%;
 }
 
 .user-box {
     position: absolute;
     height: 100%;
-    margin-left: 125px;
+    margin-left: 15%;
 }
 
 .machine-box {
@@ -633,41 +660,24 @@ html, body {
     display: block;
     height: 100%;
     margin-left: auto;
-    margin-right: 130px;
-    transform: scaleX(-1);
-}
-
-.user-text {
-    position: absolute;
-    height: 80%;
-    font-family: Comic Sans MS;
-    margin-left: 170px;
-    margin-top: 4px;
-    z-index: 10;
-}
-
-.machine-text {
-    position: absolute;
-    height: 80%;
-    font-family: Comic Sans MS;
-    margin-left: 775px;
-    margin-top: 4px;
-    z-index: 10;
+    margin-right: 15%;
 }
 
 .user-selection {
     position: absolute;
     height: 80%;
-    margin-left: 170px;
-    margin-top: 30px;
+    margin-left: 21%;
+    margin-top: 4%;
 }
 
 .machine-selection {
     position: absolute;
     height: 80%;
-    margin-left: 700px;
-    margin-top: 30px;
+    margin-right: 20%;
+    margin-top: 4%;
     z-index: 10;
+    float: right;
+    right: 0;
 }
 
 .winner {
@@ -692,44 +702,46 @@ html, body {
 }
 
 .bottom {
-    bottom: 0;
-    height: 160px;
-    width: 1000px;
+    top: 0;
+    margin-top: 45%;
+    position: absolute;
+    height: 30%;
+    width: 100%;
 }
 
 .user-player {
     position: absolute;
     height: 80%;
-    margin-left: 15px;
+    margin-left: 1.2%;
 }
 
 .machine-player {
     position: relative;
     display: block;
     height: 80%;
-    margin-left: auto;
-    margin-right: 20px;
+    float: right;
+    margin-right: 1.2%;
 }
 
 .stone {
     position: absolute;
-    height: 60%;
-    margin-top: 20px;
-    margin-left: 375px;
+    height: 80%;
+    margin-top: -1%;
+    margin-left: 30%;
 }
 
 .paper {
     position: absolute;
-    height: 60%;
-    margin-top: 20px;
-    margin-left: 475px;
+    height: 80%;
+    margin-top: -1%;
+    margin-left: 45%;
 }
 
 .scissor {
     position: absolute;
-    height: 60%;
-    margin-top: 20px;
-    margin-left: 575px;
+    height: 80%;
+    margin-top: -1%;
+    margin-left: 60%;
 }
 
 .portrait {

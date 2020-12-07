@@ -8,70 +8,67 @@
     <meta name="description" content="Run of Luck" />
     <link rel="stylesheet" href="style.css" />
     <title>Arshdeep Kaur - Run of Luck</title>
+
+    <!-- GSAP library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
+    <!-- js file -->
+    <!--<script src="script.js"></script>-->
 </head>
 
 <body>
     <div class="container center">
         <!-- Header -->
-        <object class="header center" data="img/header.svg" type="image/svg+xml"></object>
-        <!-- Background -->
-        <object class="background" data="img/background.svg" type="image/svg+xml"></object>
+        <object data="img/header.svg" type="image/svg+xml"></object>
 
-        <section class="trophy center">
-            <!-- User Trophy -->
-            <object class="user-trophy" data="img/trophy.svg" type="image/svg+xml"></object>
-            <!-- Machine Trophy -->
-            <object class="machine-trophy" data="img/trophy.svg" type="image/svg+xml"></object>
-        </section>
+        <div>
+            <!-- Background -->
+            <object data="img/background.svg" type="image/svg+xml"></object>
 
-        <section class="game">
-            <div class="user-text">
-                <p>User</p>
-            </div>
-            <!-- User Trophy -->
-            <object class="user-box" data="img/box.svg" type="image/svg+xml"></object>
-            <!-- User selection -->
-            <object id="user-selection" class="user-selection" data="img/stone-paper-scissor.svg" type="image/svg+xml"></object>
-            <!-- User selection -->
-            <object id="machine-selection" class="machine-selection" data="img/stone-paper-scissor.svg" type="image/svg+xml"></object>
-            <!-- Winner -->
-            <object id="winner" class="winner" data="img/winner.svg" type="image/svg+xml"></object>
-            <!-- Loser -->
-            <object id="loser" class="loser" data="img/lose.svg" type="image/svg+xml"></object>
-            <!-- Draw -->
-            <object id="draw" class="draw" data="img/draw.svg" type="image/svg+xml"></object>
-            <div class="machine-text">
-                <p>Computer</p>
-            </div>
-            <!-- Machine Trophy -->
-            <object class="machine-box" data="img/box.svg" type="image/svg+xml"></object>
-        </section>
+            <section class="trophy">
+                <!-- User Trophy -->
+                <object class="user-trophy" data="img/trophy.svg" type="image/svg+xml"></object>
+                <!-- Machine Trophy -->
+                <object class="machine-trophy" data="img/trophy.svg" type="image/svg+xml"></object>
+            </section>
 
-        <section class="bottom center">
-            <!-- User -->
-            <object id="user-player" class="user-player" data="img/user-player.svg" type="image/svg+xml"></object>
-            <!-- Stone -->
-            <object id="stone" class="stone" data="img/stone.svg" type="image/svg+xml"></object>
-            <!-- Paper -->
-            <object id="paper" class="paper" data="img/paper.svg" type="image/svg+xml"></object>
-            <!-- Paper -->
-            <object id="scissor" class="scissor" data="img/scissor.svg" type="image/svg+xml"></object>
-            <!-- Machine -->
-            <object id="machine-player" class="machine-player" data="img/machine-player.svg" type="image/svg+xml"></object>
-        </section>
+            <section class="game">
+                <!-- User Trophy -->
+                <object class="user-box" data="img/user-box.svg" type="image/svg+xml"></object>
+                <!-- User selection -->
+                <object id="user-selection" class="user-selection" data="img/stone-paper-scissor.svg" type="image/svg+xml"></object>
+                <!-- User selection -->
+                <object id="machine-selection" class="machine-selection" data="img/stone-paper-scissor.svg" type="image/svg+xml"></object>
+                <!-- Winner -->
+                <object id="winner" class="winner" data="img/winner.svg" type="image/svg+xml"></object>
+                <!-- Loser -->
+                <object id="loser" class="loser" data="img/lose.svg" type="image/svg+xml"></object>
+                <!-- Draw -->
+                <object id="draw" class="draw" data="img/draw.svg" type="image/svg+xml"></object>
+                <!-- Machine Trophy -->
+                <object class="machine-box" data="img/machine-box.svg" type="image/svg+xml"></object>
+            </section>
+
+            <section class="bottom">
+                <!-- User -->
+                <object id="user-player" class="user-player" data="img/user-player.svg" type="image/svg+xml"></object>
+                <!-- Stone -->
+                <object id="stone" class="stone" data="img/stone.svg" type="image/svg+xml"></object>
+                <!-- Paper -->
+                <object id="paper" class="paper" data="img/paper.svg" type="image/svg+xml"></object>
+                <!-- Paper -->
+                <object id="scissor" class="scissor" data="img/scissor.svg" type="image/svg+xml"></object>
+                <!-- Machine -->
+                <object id="machine-player" class="machine-player" data="img/machine-player.svg" type="image/svg+xml"></object>
+            </section>
+        </div>
     </div>
 
-    <div class="portrait">
+    <!--<div class="portrait">
         <figure>
             <img src="img/landscape.png" alt="" />
             <figcaption>Please move screen to landscape mode.</figcaption>
         </figure>
-    </div>
-
-    <!-- GSAP library -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
-    <!-- js file -->
-    <script src="script.js"></script>
+    </div>-->
 </body>
 
 </html>

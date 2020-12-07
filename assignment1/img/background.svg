@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../style.css"?>
-<svg id="background" data-name="background"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1922.61 1080.74">
+<svg id="background" data-name="background" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1922.61 1080.74">
     <polygon class="beb8f6bb-cbd9-4b18-a09b-1b3367853c30" points="192.41 481.01 234.32 487.04 931.37 486.72 1059.81 484.03 1623.88 432.3 1726.15 414.19 1726.15 617.67 1371.78 603.4 1128.55 603.4 1120.54 610.64 282.58 617.67 192.41 620.66 192.41 481.01"/>
     <rect class="bb9a78f9-404a-4ebd-aabb-a528f5c606b7" y="3.11" width="192.36" height="1077.64"/>
     <rect class="bb9a78f9-404a-4ebd-aabb-a528f5c606b7" x="1726.24" width="196.37" height="1080.74"/>
