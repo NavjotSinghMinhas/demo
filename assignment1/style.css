@@ -637,8 +637,7 @@ html, body {
 
 .machine-trophy {
     height: 90%;
-    margin-right: 1%;
-    float: right;
+    margin-left: 82%;
 }
 
 .game {
@@ -659,8 +658,7 @@ html, body {
     position: relative;
     display: block;
     height: 100%;
-    margin-left: auto;
-    margin-right: 15%;
+    margin-left: 60%;
 }
 
 .user-selection {
@@ -673,11 +671,9 @@ html, body {
 .machine-selection {
     position: absolute;
     height: 80%;
-    margin-right: 20%;
+    margin-left: 66%;
     margin-top: 4%;
     z-index: 10;
-    float: right;
-    right: 0;
 }
 
 .winner {
@@ -725,8 +721,7 @@ html, body {
     position: relative;
     display: block;
     height: 80%;
-    float: right;
-    margin-right: 1.2%;
+    margin-left: 91%;
 }
 
 .stone {
