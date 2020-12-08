@@ -903,7 +903,6 @@ html, body {
 }
 
 @media screen and (orientation:portrait) {
-    place-items: center;
     .portrait {
         top: 0;
         background: #808080;
@@ -914,5 +913,6 @@ html, body {
         z-index: 200;
         position: fixed;
         text-align: center;
+        place-items: center;
     }
 }
