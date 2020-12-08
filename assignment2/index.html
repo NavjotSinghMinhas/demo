@@ -2,65 +2,75 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="author" content="Linda Cheng" />
-  <meta name="description" content="Jodvir Singh" />
-  <link rel="stylesheet" href="style.css" />
-  <title>Zombies Hunt</title>
-</head>
-
-<body>
-    <div class="container center">
-        <!-- Header -->
-        <object class="header center" data="img/title.svg" type="image/svg+xml"></object>
-        <!-- Animation -->
-        <object class="animation" data="img/animation.svg" type="image/svg+xml"></object>
-        <!-- Background -->
-        <object class="background" data="img/background.svg" type="image/svg+xml"></object>
-
-        <section class="game">
-            <!-- Win -->
-            <object id="win" class="win" data="img/win.svg" type="image/svg+xml"></object>
-            <!-- Lose -->
-            <object id="lose" class="lose" data="img/lose.svg" type="image/svg+xml"></object>
-            <!-- Draw -->
-            <object id="draw" class="draw" data="img/draw.svg" type="image/svg+xml"></object>
-            <!-- User -->
-            <object id="user" class="user" data="img/user.svg" type="image/svg+xml"></object>
-            <!-- Box -->
-            <object class="userBox" data="img/resultbox.svg" type="image/svg+xml"></object>
-            <!-- Box -->
-            <object class="computerBox" data="img/resultbox.svg" type="image/svg+xml"></object>
-            <!-- User selection -->
-            <object id="user-selection" class="user-selection" data="img/rock-paper-scissors.svg" type="image/svg+xml"></object>
-            <!-- Computer selection -->
-            <object id="computer-selection" class="computer-selection" data="img/rock-paper-scissors.svg" type="image/svg+xml"></object>
-            <!-- Computer -->
-            <object id="computer" class="computer" data="img/computer.svg" type="image/svg+xml"></object>
-        </section>
-
-        <section class="bottom center">
-            <!-- Reset -->
-            <object id="reset" class="reset" data="img/reset.svg" type="image/svg+xml"></object>
-            <!-- Rock -->
-            <object id="rock" class="rock" data="img/rock.svg" type="image/svg+xml"></object>
-            <!-- Paper -->
-            <object id="paper" class="paper" data="img/paper.svg" type="image/svg+xml"></object>
-            <!-- Scissor -->
-            <object id="scissor" class="scissor" data="img/scissor.svg" type="image/svg+xml"></object>
-
-            <!-- Alert Win -->
-            <object id="alertWin" class="alertWin" data="img/alertWin.svg" type="image/svg+xml"></object>
-            <!-- Alert Lose -->
-            <object id="alertLose" class="alertLose" data="img/alertLose.svg" type="image/svg+xml"></object>
-        </section>
-    </div>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Linda Cheng" />
+    <meta name="description" content="Jodvir Singh" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Zombies Hunt</title>
 
     <!-- GSAP library -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
     <!-- js file -->
     <script src="script.js"></script>
+</head>
+
+<body>
+    <div class="container center">
+        <!-- Title -->
+        <object class="title" data="img/title.svg" type="image/svg+xml"></object>
+
+        <div>
+            <!-- Animation -->
+            <object class="animation" data="img/animation.svg" type="image/svg+xml"></object>
+            <!-- Background -->
+            <object data="img/background.svg" type="image/svg+xml"></object>
+
+            <section class="game">
+                <!-- Win -->
+                <object id="win" class="win" data="img/win.svg" type="image/svg+xml"></object>
+                <!-- Lose -->
+                <object id="lose" class="lose" data="img/lose.svg" type="image/svg+xml"></object>
+                <!-- Draw -->
+                <object id="draw" class="draw" data="img/draw.svg" type="image/svg+xml"></object>
+                <!-- User -->
+                <object id="user" class="user" data="img/user.svg" type="image/svg+xml"></object>
+                <!-- Box -->
+                <object class="userBox" data="img/resultbox.svg" type="image/svg+xml"></object>
+                <!-- Box -->
+                <object class="computerBox" data="img/resultbox.svg" type="image/svg+xml"></object>
+                <!-- User selection -->
+                <object id="user-selection" class="user-selection" data="img/rock-paper-scissors.svg" type="image/svg+xml"></object>
+                <!-- Computer selection -->
+                <object id="computer-selection" class="computer-selection" data="img/rock-paper-scissors.svg" type="image/svg+xml"></object>
+                <!-- Computer -->
+                <object id="computer" class="computer" data="img/computer.svg" type="image/svg+xml"></object>
+            </section>
+
+            <section class="bottom">
+                <!-- Reset -->
+                <object id="reset" class="reset" data="img/reset.svg" type="image/svg+xml"></object>
+                <!-- Rock -->
+                <object id="rock" class="rock" data="img/rock.svg" type="image/svg+xml"></object>
+                <!-- Paper -->
+                <object id="paper" class="paper" data="img/paper.svg" type="image/svg+xml"></object>
+                <!-- Scissor -->
+                <object id="scissor" class="scissor" data="img/scissor.svg" type="image/svg+xml"></object>
+
+                <!-- Alert Win -->
+                <object id="alertWin" class="alertWin" data="img/alertWin.svg" type="image/svg+xml"></object>
+                <!-- Alert Lose -->
+                <object id="alertLose" class="alertLose" data="img/alertLose.svg" type="image/svg+xml"></object>
+            </section>
+        </div>
+    </div>
+
+    <div class="portrait">
+        <figure>
+            <img src="img/landscape.png" alt="" />
+            <figcaption>Please move screen to landscape mode.</figcaption>
+        </figure>
+    </div>
 </body>
 
 </html>
