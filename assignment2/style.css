@@ -743,7 +743,7 @@ html, body {
 
 .center {
     position: relative;
-    top: 50%;
+    top: 45%;
     transform: translateY(-50%);
 }
 
@@ -757,6 +757,7 @@ html, body {
 .animation {
     position: absolute;
     z-index: 1;
+    margin-top: 10%;
 }
 
 .title {
@@ -766,6 +767,7 @@ html, body {
     margin-left: auto;
     position: absolute;
     margin-left: 30%;
+    margin-top: 10%;
 }
 
 .game {
@@ -914,4 +916,3 @@ html, body {
         text-align: center;
     }
 }
-
