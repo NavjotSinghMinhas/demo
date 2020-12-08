@@ -825,7 +825,7 @@ html, body {
 .win {
     position: absolute;
     height: 30%;
-    margin-left: 44%;
+    margin-left: 42%;
     margin-top: 4.5%;
     display: none;
 }
@@ -833,7 +833,7 @@ html, body {
 .lose {
     position: absolute;
     height: 30%;
-    margin-left: 44%;
+    margin-left: 42%;
     margin-top: 4.5%;
     display: none;
 }
